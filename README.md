@@ -96,3 +96,6 @@ Configured to use **PostgreSQL** on port 5432 with database `library` (defined i
 
 This section was added on the feature/book-search branch.
 
+## Member Search Feature
+
+The Library Management System supports searching for members.
