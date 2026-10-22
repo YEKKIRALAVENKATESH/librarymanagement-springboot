@@ -88,7 +88,7 @@ curl http://localhost:8082/api/books
 ## Database
 Configured to use **PostgreSQL** on port 5432 with database `library` (defined in `application.properties`).
 
-## Notes
+## Notesgt
 - Port is configured to **8082** (`server.port=8082` in `application.properties`).
 - This is a learning/demo project. It does not include authentication or role-based access.
 
@@ -99,3 +99,4 @@ This section was added on the feature/book-search branch.
 ## Member Search Feature
 
 The Library Management System supports searching for members.
+This is a temporary Git practice line.
