@@ -1,0 +1,11 @@
+# Maven build files
+target/
+
+# Local database files
+data/
+*.mv.db
+*.trace.db
+
+# IDE settings
+.vscode/
+.idea/
