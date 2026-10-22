@@ -1,0 +1,22 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex e30b847..2733021 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -88,7 +88,7 @@[m [mcurl http://localhost:8082/api/books[m
+ ## Database[m
+ Configured to use **PostgreSQL** on port 5432 with database `library` (defined in `application.properties`).[m
+ [m
+[31m-## Notes[m
+[32m+[m[32m## Notesgt[m
+ - Port is configured to **8082** (`server.port=8082` in `application.properties`).[m
+ - This is a learning/demo project. It does not include authentication or role-based access.[m
+ [m
+[36m@@ -98,4 +98,5 @@[m [mThis section was added on the feature/book-search branch.[m
+ [m
+ ## Member Search Feature[m
+ [m
+[31m-The Library Management System supports searching for members.[m
+\ No newline at end of file[m
+[32m+[m[32mThe Library Management System supports searching for members.[m
+[32m+[m[32mThis is a temporary Git practice line.[m
+\ No newline at end of file[m
