@@ -5,7 +5,6 @@ A beginner-friendly REST API using Java 21, Maven, Spring Boot, Spring Data JPA,
 ## Requirements
 - JDK 21
 - Maven 3.9+ (or use `mvnw.cmd` included by Spring Initializr if present)
-
 ## Run in VS Code on Windows
 1. Extract the ZIP.
 2. In VS Code, select **File → Open Folder** and choose `librarymanagement`.
@@ -92,3 +91,8 @@ Configured to use **PostgreSQL** on port 5432 with database `library` (defined i
 ## Notes
 - Port is configured to **8082** (`server.port=8082` in `application.properties`).
 - This is a learning/demo project. It does not include authentication or role-based access.
+
+## Git Branching Practice
+
+This section was added on the feature/book-search branch.
+
